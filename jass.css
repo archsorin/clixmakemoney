@@ -1,0 +1,24 @@
+* {
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top:5%;
+	text-align: center;
+	color: firebrick;
+	background-color: #7D7979;
+}
+h1 {
+	background-color: #252055;
+	border-radius:8px; 
+	size: 100px;
+	padding: 90px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 40px;
+	border-bottom-style: dotted;
+	}
+p1 {
+	background-color: #083D07;
+	font-size: 20px;
+}
+a {
+	background-color: #083D07;
+}
